@@ -1,0 +1,36 @@
+.img-deg{
+    border-radius: 7%;
+    image-orientation: center;
+    float: left;
+    border-style:outset;
+  border-width: 8px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  margin-right: 15px;
+  margin-left: 15px;
+ }
+
+h1{
+  border-style:outset;
+  border-width: 15px;
+  border-color: rgb(0, 0, 0);
+        text-shadow: rgb(88, 88, 88)0px 15px 15px;
+        text-align: center;
+        border-radius: 50px;
+        font-family: 'Segoe Script';
+        color : rgb(0, 0, 0) ;
+}
+ #box1 {
+  border-style:outset;
+  border-width: 8px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+ }
+
+#box2 {
+  border-style:outset;
+  border-width: 8px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  padding-bottom: 90px;
+ }
